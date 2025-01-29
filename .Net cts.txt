@@ -1,0 +1,111 @@
+Listening Effectively,, Expressing Ideas Clearly and Concisely, Adapting to Verbal/Non-Verbal Cues,, Conveying Desired Information,, and Influencing Others Towards Action.
+
+What is a class?
+A class is a template to create an object. It contains properties as well as methods. We can create many instances of objects from a single class.
+
+Puplic Task <int, String> getValue()
+
+List<int> name = new List<int> {}
+
+Sailaja Maneri
+
+12:21 PM
+enum color: int
+
+{
+
+    red,
+
+    green,
+
+    blue = 5,
+
+    cyan,
+
+    magenta = 10,
+
+    yellow
+
+}
+
+Console.Write( (int) color.green + ", " );
+
+Console.Write( (int) color.yellow );
+
+Sailaja Maneri
+
+12:27 PM
+class Test
+
+{
+
+    public int TestMethod(int i, int j)
+
+    {
+
+        /* Add code here. */
+
+    }
+
+}
+
+You
+
+12:29 PM
+public delegat int TestMehtod( int i, int j){}
+
+Sailaja Maneri
+
+12:39 PM
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+ 
+
+<h2>JavaScript Arrays</h2>
+
+ 
+
+<p>Add the numbers in the array, starting from the left:</p>
+
+ 
+
+<p id="test"></p>
+
+ 
+
+<script>
+
+</script>
+
+ 
+
+</body>
+
+</html>
+
+You
+
+12:44 PM
+ 
+
+let array = [];
+
+let addValue = (add) => {
+
+return add;
+
+}
+
+Sailaja Maneri
+
+12:52 PM
+Input String:  my name is senthil
+
+Sailaja Maneri
+
+12:52 PM
+output: MyNameIsSenthil

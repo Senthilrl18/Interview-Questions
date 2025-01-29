@@ -1,0 +1,20 @@
+What is .NET?
+Explain the difference between .NET Framework and .NET Core.
+What is C#? Highlight some key features of C#.
+What are the different types of memory management in .NET?
+What is ASP.NET? Explain its architecture.
+What are the different types of ASP.NET authentication?
+What is Entity Framework? How does it differ from ADO.NET?
+What are delegates and events in C#? How are they used?
+Explain the concept of garbage collection in .NET.
+What is the difference between abstract classes and interfaces in C#?
+What are the different types of collections available in C#?
+What is MVC (Model-View-Controller)? How does it work in ASP.NET?
+What is the role of the Global.asax file in ASP.NET?
+Explain the use of NuGet packages in .NET development.
+What is LINQ (Language Integrated Query)? How is it used?
+What are the advantages of using asynchronous programming in .NET?
+How does dependency injection work in .NET Core?
+What are the different types of HTTP methods in RESTful services?
+Explain the concept of serialization and deserialization in .NET.
+What is unit testing? How do you perform unit testing in .NET applications?

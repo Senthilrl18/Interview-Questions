@@ -1,0 +1,44 @@
+Question 1:
+Given an array of positive integers, determine any one of the possible combination of elements in the array
+Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+For example, the square matrix is shown below:
+Arr=1 2 3
+4 5 6
+7 8 3
+The top left to bottom right diagonal elements are 1+5+3 = 9
+The top right to bottom left diagonal elements are 3+5+7 = 15
+The absolute difference between them is 19-151 = 6
+ 
+ 
+Question 2:
+Write a program to swap the minimum and maximum numbers in an integer array
+Example: arr =
+in the above array, the minimum value Is -23 and the maximum value is 98. Sc those two values shoaid be
+swapped.
+The answer should be
+ 
+ 
+Question 3:
+Given a string, tind the first non-repeating character in that string.
+Example:
+In string 'TOTAL', there are 3 characters which did not repeat. They are O,A and L
+The first non-repeating character is O which is the answer
+Similarly, in string 'TEETER' the characters which did not repeat are R.
+Rest all characters T and E occur more than once.
+Hence the first non-repeating character is R
+ 
+ 
+Question 4:
+Scenario: You are building a database system for a library to track book borrowing and
+user information. There are two tables:
+• Books: Contains information about books like book_id, title, author, and genre.
+• Borrowings: Contains borrowing history with data like borrowing_id, book_id, user_id, and
+borrow_date.
+Part 1: Write a SQL query that retrieves the total number of books borrowed for eacf2 genre.
+use the Books and Borrowings tables.
+Part 2: Write a SQL query that retrieves the title, author, and genre of all books currently
+borrowed (i.e., not yet returned). Use the Books 2nd Borrowing tables.
+has context menu
+
+
+has context menu
